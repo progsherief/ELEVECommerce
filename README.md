@@ -1,4 +1,7 @@
 # ECommerce
+![image](https://github.com/user-attachments/assets/d55da373-cf31-4f54-8718-7c9c0a86418f)
+https://progsherief.github.io/ELEVECommerce/home
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 
